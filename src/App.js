@@ -17,10 +17,10 @@ const App = () => {
     return (
         <div className="App">
 
-            <h1>Hi, my name is Mat</h1>
-            <h3>I'm a developer</h3>
+            <h1>Hi, I'm Mathew</h1>
+            <h3>I'm a recent graduate developer</h3>
 
-            <h4>Here are a few of my projects</h4>
+            <h4>Here are a few projects i've worked on</h4>
 
             {
                 projects.length ? (
